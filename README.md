@@ -1,6 +1,6 @@
 # smooth_scroll_navbar
 
-```
+```html
 
 <!DOCTYPE html>
 <html>
